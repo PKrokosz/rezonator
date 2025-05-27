@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pakiet-starter",
+    "name": "Starter Pack",
+    "description": "Podstawowy zestaw dla początkujących eksploratorów Rezonatora™",
+    "prompts": [
+      "ignition-001",
+      "remix-001",
+      "zin-001"
+    ]
+  },
+  {
+    "id": "pakiet-maxx",
+    "name": "Remix MAXX",
+    "description": "Ekstremalny zestaw promptów do transformacji estetyczno-narracyjnej",
+    "prompts": [
+      "remix-001",
+      "archetype-001",
+      "pakiet-001"
+    ]
+  }
+]

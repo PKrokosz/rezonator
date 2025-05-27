@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ignition-001",
+    "title": "Twórczy zapłon",
+    "category": "Ignition",
+    "prompt": "Wymyśl alternatywną wersję świata, w którym ludzie nigdy nie wymyślili pisma.",
+    "tags": [
+      "światy alternatywne",
+      "filozofia",
+      "cywilizacja"
+    ]
+  },
+  {
+    "id": "remix-001",
+    "title": "Remiks klasyka",
+    "category": "Remix",
+    "prompt": "Przepisz Odyseję jako cyberpunkowy komiks z lat 80.",
+    "tags": [
+      "literatura",
+      "remiks",
+      "cyberpunk"
+    ]
+  },
+  {
+    "id": "archetype-001",
+    "title": "Archetypowy konflikt",
+    "category": "Archetyp",
+    "prompt": "Stwórz dialog między Zbawcą a Oszustem w chwili apokalipsy.",
+    "tags": [
+      "archetypy",
+      "dramat",
+      "mitologia"
+    ]
+  },
+  {
+    "id": "zin-001",
+    "title": "Zinowy manifest",
+    "category": "ZIN",
+    "prompt": "Napisz manifest estetyczny w stylu Donki – buntowniczy, zadziorny i liryczny.",
+    "tags": [
+      "zin",
+      "manifest",
+      "estetyka"
+    ]
+  },
+  {
+    "id": "pakiet-001",
+    "title": "Pakiet startowy: Rezonator™",
+    "category": "Pakiet",
+    "prompt": "Zainicjuj podróż poznawczą – wybierz 3 prądy i połącz je w jedną sesję refleksyjną.",
+    "tags": [
+      "pakiet",
+      "start",
+      "sesja"
+    ]
+  }
+]
